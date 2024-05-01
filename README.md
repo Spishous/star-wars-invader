@@ -1,4 +1,4 @@
-For play game: -> https://htmlpreview.github.io/?https://github.com/Spishous/star-wars-invader/master/dist/index.html
+For play game: -> [http://htmlpreview.github.io/?https://github.com/Spishous/star-wars-invader/master/dist/index.html](http://htmlpreview.github.io/?https://github.com/Spishous/star-wars-invader/master/dist/index.html)
 
 Pour évènement numérique sur le thème de Star Wars
 
