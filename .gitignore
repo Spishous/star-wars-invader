@@ -6,3 +6,5 @@ Files
 Ressources
 Textures
 *.capx.*
+dist
+exe
