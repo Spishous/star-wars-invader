@@ -6,4 +6,7 @@ Files
 Ressources
 Textures
 *.capx.*
+*.iss
+*.caproj
 exe
+src
